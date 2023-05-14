@@ -10,3 +10,15 @@ C:\API\ApiOnion\Shared\obj\Debug\net5.0\Shared.dll
 C:\API\ApiOnion\Shared\obj\Debug\net5.0\refint\Shared.dll
 C:\API\ApiOnion\Shared\obj\Debug\net5.0\Shared.pdb
 C:\API\ApiOnion\Shared\obj\Debug\net5.0\ref\Shared.dll
+C:\API\ApiOnionArchitecture\Shared\bin\Debug\net5.0\Shared.deps.json
+C:\API\ApiOnionArchitecture\Shared\bin\Debug\net5.0\Shared.dll
+C:\API\ApiOnionArchitecture\Shared\bin\Debug\net5.0\Shared.pdb
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.csproj.AssemblyReference.cache
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.AssemblyInfoInputs.cache
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.AssemblyInfo.cs
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.csproj.CoreCompileInputs.cache
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.dll
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\refint\Shared.dll
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.pdb
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\ref\Shared.dll

@@ -1,2 +1,6 @@
 # ApiOnionArchitecture
-Api Restfaull
+Api Restfaull 
+Onion Architecture 
+Net Core 5.0
+
+
