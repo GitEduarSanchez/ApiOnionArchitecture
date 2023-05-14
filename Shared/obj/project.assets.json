@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\API\\ApiOnion\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\API\\ApiOnionArchitecture\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\API\\ApiOnion\\Shared\\Shared.csproj",
+      "projectPath": "C:\\API\\ApiOnionArchitecture\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\NEWSHORE_\\.nuget\\packages\\",
-      "outputPath": "C:\\API\\ApiOnion\\Shared\\obj\\",
+      "outputPath": "C:\\API\\ApiOnionArchitecture\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

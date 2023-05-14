@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1vQ7SONUUjypETMebxlecLJy7D/sZmiSCKmoxsx7PvIFecyItUMbqjFcfbYs0llgrmoUckElOvpFjOX4jxJLzw==",
+  "dgSpecHash": "qKvGPkQCaJQZmxAnuno6A9DqCkY8urDSr/rt1xX5fqMXM5CRp9DdUk2/V1HwG8ph0UoLyY03Y2di0KKMvoCkyQ==",
   "success": true,
-  "projectFilePath": "C:\\API\\ApiOnion\\Application\\Application.csproj",
+  "projectFilePath": "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\API\\ApiOnion\\Application\\Application.csproj": {}
+    "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\API\\ApiOnion\\Application\\Application.csproj": {
+    "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\API\\ApiOnion\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\API\\ApiOnion\\Application\\Application.csproj",
+        "projectPath": "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\NEWSHORE_\\.nuget\\packages\\",
-        "outputPath": "C:\\API\\ApiOnion\\Application\\obj\\",
+        "outputPath": "C:\\API\\ApiOnionArchitecture\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

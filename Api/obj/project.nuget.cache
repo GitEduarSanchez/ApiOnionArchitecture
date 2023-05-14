@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hUBsRz4DV1/YCnZ1uvxJWZz1+YQwX3UGH+ZjzqovGXytPSyF1AkdqYop3mvD3ig5/6BHIvcgL5lVuiRFF8MkYA==",
+  "dgSpecHash": "OBp2zGhzz2DC8dByHmj9kulKDg2S/vEdfQ0ZygBQTzq9GMJwrzXfv5YN0YKZ9XVnvtefVw9QriyXEZt2ogh++g==",
   "success": true,
-  "projectFilePath": "C:\\API\\ApiOnion\\Api\\Api.csproj",
+  "projectFilePath": "C:\\API\\ApiOnionArchitecture\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NEWSHORE_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\NEWSHORE_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
