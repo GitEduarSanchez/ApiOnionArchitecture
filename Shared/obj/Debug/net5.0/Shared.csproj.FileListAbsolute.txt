@@ -22,3 +22,6 @@ C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.dll
 C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\refint\Shared.dll
 C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.pdb
 C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\ref\Shared.dll
+C:\API\ApiOnionArchitecture\Shared\bin\Debug\net5.0\Application.dll
+C:\API\ApiOnionArchitecture\Shared\bin\Debug\net5.0\Application.pdb
+C:\API\ApiOnionArchitecture\Shared\obj\Debug\net5.0\Shared.csproj.CopyComplete

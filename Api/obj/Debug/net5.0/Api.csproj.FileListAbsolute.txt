@@ -47,7 +47,6 @@ C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\FluentValidation.DependencyInje
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\MediatR.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\MediatR.Contracts.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
@@ -119,3 +118,5 @@ C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Domain.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Persistence.dll
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Persistence.pdb
 C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Domain.pdb
+C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Shared.dll
+C:\API\ApiOnionArchitecture\Api\bin\Debug\net5.0\Shared.pdb
