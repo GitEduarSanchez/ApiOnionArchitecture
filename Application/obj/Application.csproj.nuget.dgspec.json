@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj": {}
+    "C:\\Api\\ApiOnionArchitecture\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj": {
+    "C:\\Api\\ApiOnionArchitecture\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Api\\ApiOnionArchitecture\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\API\\ApiOnionArchitecture\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\NEWSHORE_\\.nuget\\packages\\",
-        "outputPath": "C:\\API\\ApiOnionArchitecture\\Application\\obj\\",
+        "projectPath": "C:\\Api\\ApiOnionArchitecture\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\EduarLeonardoSánchez\\.nuget\\packages\\",
+        "outputPath": "C:\\Api\\ApiOnionArchitecture\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NEWSHORE_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EduarLeonardoSánchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
